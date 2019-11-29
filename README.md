@@ -1,0 +1,2 @@
+# templete
+GameDevLog Templete
